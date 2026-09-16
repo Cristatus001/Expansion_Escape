@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 604c589c7b2f6f74aa81256274ecb3f2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225607
+  packageName: Easy Transitions
+  packageVersion: 1.4
+  assetPath: Assets/EasyTransitions/Demo/TransitionDemo.unity
+  uploadId: 587727
